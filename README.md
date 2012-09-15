@@ -13,7 +13,7 @@ So, I finally decided to create my own list using the following sources:
 - [http://www.john.geek.nz/2009/01/sql-tips-list-of-us-states/](http://www.john.geek.nz/2009/01/sql-tips-list-of-us-states/)
 - [http://askville.amazon.com/Trivia-state-bordered-states/AnswerViewer.do?requestId=3941039](http://theincidentaleconomist.com/wordpress/list-of-neighboring-states-with-stata-code/)
 
-=> Feel free to verify, contribute and reuse my file: neighbors-states.csv
+=> Feel free to verify, contribute and reuse my file: [neighbors-states.csv](https://github.com/ubikuity/List-of-neighboring-states-for-each-US-state/blob/master/neighbors-states.csv)
 
 **Notes**:
 
