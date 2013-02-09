@@ -29,4 +29,6 @@ So, I finally decided to create my own list using the following sources:
 
 - Maybe some of you remember the song from this cartoon: [Animaniacs video of Wakko's famous 50 State Capitols song](http://www.youtube.com/watch?v=sNUDDaEOvuY).
 
-- By the way, I never been to the USA and this list gave some motivation to visit USA!
+- By the way, I never been to the USA and this list give some motivation to visit USA!
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ubikuity/List-of-neighboring-states-for-each-US-state/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
