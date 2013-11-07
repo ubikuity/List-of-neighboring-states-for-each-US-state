@@ -12,6 +12,8 @@ So, I finally decided to create my own list using the following sources:
 - [http://theincidentaleconomist.com/wordpress/list-of-neighboring-states-with-stata-code/](http://theincidentaleconomist.com/wordpress/list-of-neighboring-states-with-stata-code/)
 - [http://www.john.geek.nz/2009/01/sql-tips-list-of-us-states/](http://www.john.geek.nz/2009/01/sql-tips-list-of-us-states/)
 - [http://askville.amazon.com/Trivia-state-bordered-states/AnswerViewer.do?requestId=3941039](http://theincidentaleconomist.com/wordpress/list-of-neighboring-states-with-stata-code/)
+- [http://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_statehood](http://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_statehood)
+- [http://en.wikipedia.org/wiki/History_of_Washington,_D.C.](http://en.wikipedia.org/wiki/History_of_Washington,_D.C.)
 
 => Feel free to verify, contribute and reuse my file: [neighbors-states.csv](https://github.com/ubikuity/List-of-neighboring-states-for-each-US-state/blob/master/neighbors-states.csv)
 
