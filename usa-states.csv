@@ -1,52 +1,52 @@
-StateCode;StateName;IsRealState;StateDate
-AK;Alaska;1;1819-12-14
-AL;Alabama;1;1959-01-03
-AR;Arkansas;1;1912-02-14
-AZ;Arizona;1;1836-06-15
-CA;California;1;1850-09-09
-CO;Colorado;1;1876-08-01
-CT;Connecticut;1;1788-01-09
-DC;District of Columbia;0;1787-12-07
-DE;Delaware;1;1801-02-27
-FL;Florida;1;1845-03-03
-GA;Georgia;1;1788-01-02
-HI;Hawaii;1;1959-08-21
-IA;Iowa;1;1890-07-03
-ID;Idaho;1;1818-12-03
-IL;Illinois;1;1816-12-11
-IN;Indiana;1;1846-12-28
-KS;Kansas;1;1861-01-29
-KY;Kentucky;1;1792-06-01
-LA;Louisiana;1;1812-04-30
-MA;Massachusetts;1;1820-03-15
-MD;Maryland;1;1788-04-28
-ME;Maine;1;1788-02-06
-MI;Michigan;1;1837-01-26
-MN;Minnesota;1;1858-05-11
-MO;Missouri;1;1817-12-10
-MS;Mississippi;1;1821-08-10
-MT;Montana;1;1889-11-08
-NC;North Carolina;1;1867-03-01
-ND;North Dakota;1;1864-10-31
-NE;Nebraska;1;1788-06-21
-NH;New Hampshire;1;1787-12-18
-NJ;New Jersey;1;1912-01-06
-NM;New Mexico;1;1788-07-26
-NV;Nevada;1;1789-11-21
-NY;New York;1;1889-11-02
-OH;Ohio;1;1803-03-01
-OK;Oklahoma;1;1907-11-16
-OR;Oregon;1;1859-02-14
-PA;Pennsylvania;1;1787-12-12
-RI;Rhode Island;1;1790-05-29
-SC;South Carolina;1;1788-05-23
-SD;South Dakota;1;1889-11-02
-TN;Tennessee;1;1796-06-01
-TX;Texas;1;1845-12-29
-UT;Utah;1;1896-01-04
-VA;Virginia;1;1791-03-04
-VT;Vermont;1;1788-06-25
-WA;Washington;1;1889-11-11
-WI;Wisconsin;1;1863-06-20
-WV;West Virginia;1;1848-05-29
-WY;Wyoming;1;1890-07-10
+StateCode,StateName,IsRealState,StateDate
+AK,Alaska,1,1819-12-14
+AL,Alabama,1,1959-01-03
+AR,Arkansas,1,1912-02-14
+AZ,Arizona,1,1836-06-15
+CA,California,1,1850-09-09
+CO,Colorado,1,1876-08-01
+CT,Connecticut,1,1788-01-09
+DC,District of Columbia,0,1787-12-07
+DE,Delaware,1,1801-02-27
+FL,Florida,1,1845-03-03
+GA,Georgia,1,1788-01-02
+HI,Hawaii,1,1959-08-21
+IA,Iowa,1,1890-07-03
+ID,Idaho,1,1818-12-03
+IL,Illinois,1,1816-12-11
+IN,Indiana,1,1846-12-28
+KS,Kansas,1,1861-01-29
+KY,Kentucky,1,1792-06-01
+LA,Louisiana,1,1812-04-30
+MA,Massachusetts,1,1820-03-15
+MD,Maryland,1,1788-04-28
+ME,Maine,1,1788-02-06
+MI,Michigan,1,1837-01-26
+MN,Minnesota,1,1858-05-11
+MO,Missouri,1,1817-12-10
+MS,Mississippi,1,1821-08-10
+MT,Montana,1,1889-11-08
+NC,North Carolina,1,1867-03-01
+ND,North Dakota,1,1864-10-31
+NE,Nebraska,1,1788-06-21
+NH,New Hampshire,1,1787-12-18
+NJ,New Jersey,1,1912-01-06
+NM,New Mexico,1,1788-07-26
+NV,Nevada,1,1789-11-21
+NY,New York,1,1889-11-02
+OH,Ohio,1,1803-03-01
+OK,Oklahoma,1,1907-11-16
+OR,Oregon,1,1859-02-14
+PA,Pennsylvania,1,1787-12-12
+RI,Rhode Island,1,1790-05-29
+SC,South Carolina,1,1788-05-23
+SD,South Dakota,1,1889-11-02
+TN,Tennessee,1,1796-06-01
+TX,Texas,1,1845-12-29
+UT,Utah,1,1896-01-04
+VA,Virginia,1,1791-03-04
+VT,Vermont,1,1788-06-25
+WA,Washington,1,1889-11-11
+WI,Wisconsin,1,1863-06-20
+WV,West Virginia,1,1848-05-29
+WY,Wyoming,1,1890-07-10
