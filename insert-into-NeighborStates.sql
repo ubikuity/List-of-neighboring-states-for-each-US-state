@@ -4,7 +4,7 @@ FROM 'C:\GitHub\List-of-neighboring-states-for-each-US-state\neighbors-states.cs
 WITH
 (
     FIRSTROW=2,
-    FIELDTERMINATOR = ';',
+    FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n'
 )
 GO
