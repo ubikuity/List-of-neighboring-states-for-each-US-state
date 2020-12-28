@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RepositoryUrl>https://github.com/ubikuity/List-of-neighboring-states-for-each-US-state</RepositoryUrl>
+    <Authors>Ubikuity Software</Authors>
+    <Company>Ubikuity Software</Company>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://ubikuity.net/blog/2014/06/01/list-of-neighboring-states-for-each-us-state/</PackageProjectUrl>
+    <Description>Provide a helper to get the list of all US states and list of neighboring states for each state</Description>
+    <Copyright>MIT License</Copyright>
+    <PackageTags>United States;bordering states;neighbor states;neighboring states;open data</PackageTags>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="neighbor-states.json" />
+    <EmbeddedResource Include="us-states.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.FileProviders.Embedded" Version="5.0.1" />
+    <PackageReference Include="System.Text.Json" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
