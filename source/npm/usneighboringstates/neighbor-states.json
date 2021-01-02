@@ -1,0 +1,206 @@
+[
+  {
+    "code": "AK",
+    "Neighborcodes": [ "WA" ]
+  },
+  {
+    "code": "AL",
+    "Neighborcodes": [ "FL", "GA", "MS", "TN" ]
+  },
+  {
+    "code": "AR",
+    "Neighborcodes": [ "LA", "MO", "MS", "OK", "TN", "TX" ]
+  },
+  {
+    "code": "AZ",
+    "Neighborcodes": [ "CA", "CO", "NM", "NV", "UT" ]
+  },
+  {
+    "code": "CA",
+    "Neighborcodes": [ "AZ", "HI", "NV", "OR" ]
+  },
+  {
+    "code": "CO",
+    "Neighborcodes": [ "AZ", "KS", "NE", "NM", "OK", "UT", "WY" ]
+  },
+  {
+    "code": "CT",
+    "Neighborcodes": [ "MA", "NY", "RI" ]
+  },
+  {
+    "code": "DC",
+    "Neighborcodes": [ "MD", "VA" ]
+  },
+  {
+    "code": "DE",
+    "Neighborcodes": [ "MD", "NJ", "PA" ]
+  },
+  {
+    "code": "FL",
+    "Neighborcodes": [ "AL", "GA" ]
+  },
+  {
+    "code": "GA",
+    "Neighborcodes": [ "AL", "FL", "NC", "SC", "TN" ]
+  },
+  {
+    "code": "HI",
+    "Neighborcodes": [ "CA" ]
+  },
+  {
+    "code": "IA",
+    "Neighborcodes": [ "IL", "MN", "MO", "NE", "SD", "WI" ]
+  },
+  {
+    "code": "ID",
+    "Neighborcodes": [ "MT", "NV", "OR", "UT", "WA", "WY" ]
+  },
+  {
+    "code": "IL",
+    "Neighborcodes": [ "IA", "IN", "KY", "MO", "WI" ]
+  },
+  {
+    "code": "IN",
+    "Neighborcodes": [ "IL", "KY", "MO", "WI" ]
+  },
+  {
+    "code": "KS",
+    "Neighborcodes": [ "CO", "MO", "NE", "OK" ]
+  },
+  {
+    "code": "KY",
+    "Neighborcodes": [ "IL", "IN", "MO", "OH", "TN", "VA", "WV" ]
+  },
+  {
+    "code": "LA",
+    "Neighborcodes": [ "AR", "MS", "TX" ]
+  },
+  {
+    "code": "MA",
+    "Neighborcodes": [ "CT", "NH", "NY", "RI", "VT" ]
+  },
+  {
+    "code": "MD",
+    "Neighborcodes": [ "DC", "DE", "PA", "VA", "WV" ]
+  },
+  {
+    "code": "ME",
+    "Neighborcodes": [ "NH" ]
+  },
+  {
+    "code": "MI",
+    "Neighborcodes": [ "IN", "OH", "WI" ]
+  },
+  {
+    "code": "MN",
+    "Neighborcodes": [ "IA", "ND", "SD", "WI" ]
+  },
+  {
+    "code": "MO",
+    "Neighborcodes": [ "AR", "IA", "IL", "KS", "KY", "NE", "OK", "TN" ]
+  },
+  {
+    "code": "MS",
+    "Neighborcodes": [ "AL", "AR", "LA", "TN" ]
+  },
+  {
+    "code": "MT",
+    "Neighborcodes": [ "ID", "ND", "SD", "WY" ]
+  },
+  {
+    "code": "NC",
+    "Neighborcodes": [ "GA", "SC", "TN", "VA" ]
+  },
+  {
+    "code": "ND",
+    "Neighborcodes": [ "MN", "MT", "SD" ]
+  },
+  {
+    "code": "NE",
+    "Neighborcodes": [ "CO", "IA", "KS", "MO", "SD", "WY" ]
+  },
+  {
+    "code": "NH",
+    "Neighborcodes": [ "MA", "ME", "VT" ]
+  },
+  {
+    "code": "NJ",
+    "Neighborcodes": [ "DE", "NY", "PA" ]
+  },
+  {
+    "code": "NM",
+    "Neighborcodes": [ "AZ", "CO", "OK", "TX", "UT" ]
+  },
+  {
+    "code": "NV",
+    "Neighborcodes": [ "AZ", "CA", "ID", "OR", "UT" ]
+  },
+  {
+    "code": "NY",
+    "Neighborcodes": [ "CT", "MA", "NJ", "PA", "VT" ]
+  },
+  {
+    "code": "OH",
+    "Neighborcodes": [ "IN", "KY", "MI", "PA", "WV" ]
+  },
+  {
+    "code": "OK",
+    "Neighborcodes": [ "AR", "CO", "KS", "MO", "NM", "TX" ]
+  },
+  {
+    "code": "OR",
+    "Neighborcodes": [ "CA", "ID", "NV", "WA" ]
+  },
+  {
+    "code": "PA",
+    "Neighborcodes": [ "DE", "MD", "NJ", "NY", "OH", "WV" ]
+  },
+  {
+    "code": "RI",
+    "Neighborcodes": [ "CT", "MA" ]
+  },
+  {
+    "code": "SC",
+    "Neighborcodes": [ "GA", "NC" ]
+  },
+  {
+    "code": "SD",
+    "Neighborcodes": [ "IA", "MN", "MT", "ND", "NE", "WY" ]
+  },
+  {
+    "code": "TN",
+    "Neighborcodes": [ "AL", "AR", "GA", "KY", "MO", "MS", "NC", "VA" ]
+  },
+  {
+    "code": "TX",
+    "Neighborcodes": [ "AR", "LA", "NM", "OK" ]
+  },
+  {
+    "code": "UT",
+    "Neighborcodes": [ "AZ", "CO", "ID", "NM", "NV", "WY" ]
+  },
+  {
+    "code": "VA",
+    "Neighborcodes": [ "DC", "KY", "MD", "NC", "TN", "WV" ]
+  },
+  {
+    "code": "VT",
+    "Neighborcodes": [ "MA", "NH", "NY" ]
+  },
+  {
+    "code": "WA",
+    "Neighborcodes": [ "AK", "ID", "OR" ]
+  },
+  {
+    "code": "WI",
+    "Neighborcodes": [ "IA", "IL", "MI", "MN" ]
+  },
+  {
+    "code": "WV",
+    "Neighborcodes": [ "KY", "MD", "OH", "PA", "VA" ]
+  },
+  {
+    "code": "WY",
+    "Neighborcodes": [ "CO", "ID", "MT", "NE", "SD", "UT" ]
+  }
+]
